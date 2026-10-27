@@ -1,0 +1,15 @@
+{
+  "companies": [
+    {"name": "Example Corp", "ats": "greenhouse", "board": "example"},
+    {"name": "Example Labs", "ats": "lever", "board": "example"}
+  ],
+  "target_roles": [],
+  "locations": [],
+  "adzuna": {
+    "app_id": "",
+    "app_key": "",
+    "countries": ["gb", "us", "at", "au", "be", "br", "ca", "ch", "de", "es", "fr", "in", "it", "mx", "nl", "nz", "pl", "sg", "za"]
+  },
+  "request_delay_seconds": 1.5,
+  "timeout_seconds": 20
+}
